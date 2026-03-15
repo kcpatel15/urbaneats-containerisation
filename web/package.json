@@ -1,0 +1,9 @@
+{
+  "name": "urbaneats-web",
+  "scripts": {
+    "build": "echo 'Building web frontend...'"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
